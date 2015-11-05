@@ -1,0 +1,4 @@
+plugins:
+  vb_emoji_enabled:
+    default: true
+    client: true
