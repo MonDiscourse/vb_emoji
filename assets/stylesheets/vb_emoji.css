@@ -1,0 +1,4 @@
+img.emoji[src*=vb_emoji] {
+    width: 20px;
+    height: 20px;
+}
