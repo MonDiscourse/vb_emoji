@@ -4,7 +4,7 @@
 # authors: Régis Hanol (zogstrip)
 # url: https://github.com/iunctis/vb_emoji
 
-enabled_site_setting :vb_emoji_enabled
+enabled_site_setting :emoji_enabled
 
 register_emoji "but", "/plugins/vb_emoji/images/but.png"
 register_emoji "cj", "/plugins/vb_emoji/images/cj.png"
