@@ -1,6 +1,6 @@
 # name: vb_emoji
 # about: Boilerplate plugin to add custom emojis
-# version: 0.1
+# version: 1.0
 # authors: Régis Hanol (zogstrip)
 # url: https://github.com/iunctis/vb_emoji
 
