@@ -6,6 +6,7 @@
 
 enabled_site_setting :emoji_enabled
 
+register_emoji "troll", "/plugins/vb_emoji/images/troll.png"
 register_emoji "foot", "/plugins/vb_emoji/images/foot.png"
 register_emoji "hockey", "/plugins/vb_emoji/images/hockey.png"
 register_emoji "puck", "/plugins/vb_emoji/images/puck.png"
@@ -30,9 +31,11 @@ register_emoji "eek", "/plugins/vb_emoji/images/eek.png"
 register_emoji "sac", "/plugins/vb_emoji/images/sac.png"
 register_emoji "hoho", "/plugins/vb_emoji/images/hoho.gif"
 register_emoji "calimero", "/plugins/vb_emoji/images/calimero.png"
+register_emoji "sealion", "/plugins/vb_emoji/images/sealion.png"
 register_emoji "hallelujah", "/plugins/vb_emoji/images/hallelujah.gif"
-register_emoji "haha", "/plugins/vb_emoji/images/haha.png"
 register_emoji "fruity", "/plugins/vb_emoji/images/fruity.gif"
+register_emoji "haha", "/plugins/vb_emoji/images/haha.png"
+register_emoji "bave", "/plugins/vb_emoji/images/bave.png"
 register_emoji "homerargh", "/plugins/vb_emoji/images/homerargh.gif"
 register_emoji "afg", "/plugins/vb_emoji/images/afg.png"
 register_emoji "afs", "/plugins/vb_emoji/images/afs.png"
