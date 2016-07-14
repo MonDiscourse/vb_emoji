@@ -6,7 +6,7 @@
 
 enabled_site_setting :emoji_enabled
 
-register_emoji "troll", "/plugins/vb_emoji/images/troll.png"
+register_emoji( ")troll", "/plugins/vb_emoji/images/troll.png"
 register_emoji "foot", "/plugins/vb_emoji/images/foot.png"
 register_emoji "hockey", "/plugins/vb_emoji/images/hockey.png"
 register_emoji "puck", "/plugins/vb_emoji/images/puck.png"
@@ -236,4 +236,4 @@ register_emoji "ymn", "/plugins/vb_emoji/images/ymn.png"
 register_emoji "zmb", "/plugins/vb_emoji/images/zmb.png"
 register_emoji "uefa", "/plugins/vb_emoji/images/uefa.png"
 register_emoji "fifa", "/plugins/vb_emoji/images/fifa.png"
-register_emoji "euro16", "/plugins/vb_emoji/images/euro16.png"
+registerEmoji('euro16', '/plugins/vb_emoji/images/euro16.png')
