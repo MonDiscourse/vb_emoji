@@ -236,4 +236,4 @@ register_emoji "ymn", "/plugins/vb_emoji/images/ymn.png"
 register_emoji "zmb", "/plugins/vb_emoji/images/zmb.png"
 register_emoji "uefa", "/plugins/vb_emoji/images/uefa.png"
 register_emoji "fifa", "/plugins/vb_emoji/images/fifa.png"
-registerEmoji('euro16', '/plugins/vb_emoji/images/euro16.png')
+register_emoji 'euro16', '/plugins/vb_emoji/images/euro16.png'
