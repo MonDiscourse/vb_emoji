@@ -6,7 +6,6 @@
 
 enabled_site_setting :emoji_enabled
 
-register_emoji "foot", "/plugins/vb_emoji/images/foot.png"
 register_emoji "hockey", "/plugins/vb_emoji/images/hockey.png"
 register_emoji "puck", "/plugins/vb_emoji/images/puck.png"
 register_emoji "cyclisme", "/plugins/vb_emoji/images/cyclisme.png"
