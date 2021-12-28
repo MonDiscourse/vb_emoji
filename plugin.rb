@@ -4,8 +4,6 @@
 # authors: Steven
 # url: https://github.com/iunctis/vb_emoji
 
-enabled_site_setting :emoji_enabled
-
 after_initialize do
   register_emoji "hockey", "/plugins/vb_emoji/images/hockey.png", "default"
   register_emoji "puck", "/plugins/vb_emoji/images/puck.png", "default"
